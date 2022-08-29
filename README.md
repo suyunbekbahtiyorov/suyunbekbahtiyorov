@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi, I'm Suyunbek Bahtiyorov <img src="https://media0.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="27px">
 
-<!--
-**suyunbekbahtiyorov/suyunbekbahtiyorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I make Software Engineering  <br>
 
-Here are some ideas to get you started:
+### I'm in junior high.
+I like wrestling.
+#### I study at Astrum IT Academy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### I like wrestling end gym.
+#### Languages and tools I work with:
+
+
+<a href="https://github.com/BibolSuper?tab=repositories&q=&type=&language=c&sort=">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="25">
+  </a>
+
+
+- 📍 &nbsp; Current location: Tashkent, Uzbekistan
+- 📝 &nbsp; How to reach me: @BS_0770 [Telegram]
