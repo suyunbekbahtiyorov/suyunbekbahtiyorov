@@ -13,8 +13,8 @@ I like wrestling.
 <a href="https://github.com/suyun?tab=repositories&q=&type=&language=c&sort=">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="25">
   </a>
-  <a href=""
+ <br>
 
 
 - 📍 &nbsp; Current location: Tashkent, Uzbekistan
-- 📝 &nbsp; How to reach me: @BS_0770 [Telegram]
+- 📝 &nbsp; How to reach me: [@BS_0770](http//:t.me/BS_0770) [Telegram]
