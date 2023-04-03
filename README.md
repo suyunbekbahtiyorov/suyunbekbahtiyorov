@@ -1,9 +1,9 @@
 # Hi, I'm Suyunbek Bahtiyorov <img src="https://media0.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="27px">
 
-## I make Software Engineering  <br>
+## I am Software Engineer  <br>
 
 ### I'm in junior high.
-I like wrestling.
+
 #### I study at Astrum IT Academy.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyunbekbahtiyorov&show_icons=true)
 ##### I like wrestling end gym.
