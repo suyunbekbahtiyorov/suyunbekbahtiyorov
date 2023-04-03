@@ -17,4 +17,4 @@ I like wrestling.
 
 
 - 📍 &nbsp; Current location: Tashkent, Uzbekistan
-- 📝 &nbsp; How to reach me: [@BS_0770](http//:t.me/BS_0770) [Telegram]
+- 📝 &nbsp; How to reach me: [@suyunbek_baxtiyorov] https://t.me/suyunbek_baxtiyorov [Telegram]
