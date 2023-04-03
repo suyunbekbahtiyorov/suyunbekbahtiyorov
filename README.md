@@ -1,4 +1,4 @@
-# Hi, I'm Suyunbek Bahtiyorov <img src="https://media0.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="27px">
+# Hi, I'm Suyunbek Bakhtiyorov <img src="https://media0.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="27px">
 
 ## I am Software Engineer.  <br>
 
