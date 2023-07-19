@@ -12,6 +12,7 @@
 
 <a href="https://github.com/suyun?tab=repositories&q=&type=&language=c&sort=">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="25">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="25">
   </a>
  <br>
 
