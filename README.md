@@ -12,7 +12,7 @@
 
 <a href="https://github.com/suyun?tab=repositories&q=&type=&language=c&sort=">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="25">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Js_Logo.png" height="25">
+  <img src=//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/80px-Unofficial_JavaScript_logo_2.svg.png height="25">
   </a>
  <br>
 
