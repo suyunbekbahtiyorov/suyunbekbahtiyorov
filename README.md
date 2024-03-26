@@ -1,12 +1,12 @@
 # Hi, I'm Suyunbek Bakhtiyorov <img src="https://media0.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="27px">
 
-## I am Software Engineer.  <br>
+## I am Python Back End Developer.  <br>
 
 ### I'm in junior high.
 
-#### I graduated from Astrum IT academy.
+#### I graduated from Astrum IT academy and Ful Fil academy.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyunbekbahtiyorov&show_icons=true)
-##### I like pc programming and c programming language.
+##### I like pc programming.
 #### Languages and tools I work with:
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="25">
