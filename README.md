@@ -7,9 +7,7 @@
 #### I graduated from Astrum IT academy and Ful Fil academy.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyunbekbahtiyorov&show_icons=true)
 ##### I like pc programming.
-#### Languages and tools I work with:
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="25">
   
   <inmg src="https://repository-images.githubusercontent.com/201450432/e30c2880-1b5f-11eb-88ff-c7815d6109a3">
   </a>
